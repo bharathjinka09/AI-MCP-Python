@@ -10,4 +10,4 @@ https://github.com/modelcontextprotocol/python-sdk?tab=readme-ov-file
 
 ## Tips 
 
-End task from task manager and open claude desktop after adding any new mcp tools
+End Claude desktop task from task manager and open claude desktop after adding any new mcp tools
