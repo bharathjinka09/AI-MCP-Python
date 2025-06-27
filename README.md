@@ -10,7 +10,7 @@ Tech with Tim - <a href="https://youtu.be/-8k9lGpGQ6g" target="_blank">MCP Tutor
 
 ## Tips 
 
-1.Install uv and the dependency packages
+1. Install uv and the dependency packages
 2. Download Claude desktop app
 3. Goto developer mode in Claude desktop and edit claude_desktop_config.json
 4. Add complete path of uv like below in claude_desktop_config.json
