@@ -40,5 +40,6 @@ Tech with Tim - <a href="https://youtu.be/-8k9lGpGQ6g" target="_blank">MCP Tutor
     }
   }
 }
-6. Run the command -> uv run mcp install .\calculator.py and uv run mcp install .\main.py
+6. Run the command -> <b>uv run mcp install .\calculator.py</b> <br>
+                      <b>uv run mcp install .\main.py</b>
 7. End Claude desktop task from task manager and open claude desktop after adding any new mcp tools
