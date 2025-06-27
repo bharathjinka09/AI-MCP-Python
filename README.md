@@ -11,10 +11,11 @@ Tech with Tim - <a href="https://youtu.be/-8k9lGpGQ6g" target="_blank">MCP Tutor
 ## Tips 
 
 1. Install uv and the dependency packages
-2. Download Claude desktop app
-3. Goto developer mode in Claude desktop and edit claude_desktop_config.json
-4. Add complete path of uv like below in claude_desktop_config.json
-5. {
+2. uv add "mcp[cli]"
+3. Download Claude desktop app
+4. Goto developer mode in Claude desktop and edit claude_desktop_config.json
+5. Add complete path of uv like below in claude_desktop_config.json
+6. {
   "mcpServers": {
     "Calculator Server": {
       "command": "C:\\Users\\bhara\\.local\\bin\\uv.exe",
@@ -40,6 +41,6 @@ Tech with Tim - <a href="https://youtu.be/-8k9lGpGQ6g" target="_blank">MCP Tutor
     }
   }
 }
-6. Run the command -> <b>uv run mcp install .\calculator.py</b> <br>
+7. Run the command -> <b>uv run mcp install .\calculator.py</b> <br>
                       <b>uv run mcp install .\main.py</b>
-7. End Claude desktop task from task manager and open claude desktop after adding any new mcp tools
+8. End Claude desktop task from task manager and open claude desktop after adding any new mcp tools
