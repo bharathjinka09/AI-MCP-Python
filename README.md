@@ -10,4 +10,21 @@ Tech with Tim - <a href="https://youtu.be/-8k9lGpGQ6g" target="_blank">MCP Tutor
 
 ## Tips 
 
-End Claude desktop task from task manager and open claude desktop after adding any new mcp tools
+1. Goto developer mode in Claude desktop and edit claude_desktop_config.json
+2. Add complete path of uv like below in claude_desktop_config.json
+3. {
+  "mcpServers": {
+    "Demo": {
+      "command": "C:\\Users\\bhara\\.local\\bin\\uv.exe",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "C:\\Users\\bhara\\Downloads\\mcp-server-demo\\main.py"
+      ]
+    }
+  }
+}
+4. End Claude desktop task from task manager and open claude desktop after adding any new mcp tools
