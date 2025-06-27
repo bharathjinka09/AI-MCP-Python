@@ -28,4 +28,5 @@ Tech with Tim - <a href="https://youtu.be/-8k9lGpGQ6g" target="_blank">MCP Tutor
     }
   }
 }
-5. End Claude desktop task from task manager and open claude desktop after adding any new mcp tools
+5. Run the command -> uv run mcp install .\main.py
+6.  End Claude desktop task from task manager and open claude desktop after adding any new mcp tools
