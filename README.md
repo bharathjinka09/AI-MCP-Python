@@ -2,11 +2,11 @@
 
 ## Youtube Tutorial
 
-Tech with Tim - https://youtu.be/-8k9lGpGQ6g
+Tech with Tim - <a href="https://youtu.be/-8k9lGpGQ6g" target="_blank">MCP Tutorial</a>
 
 ## Resources
 
-https://github.com/modelcontextprotocol/python-sdk?tab=readme-ov-file
+<a href="https://github.com/modelcontextprotocol/python-sdk?tab=readme-ov-file" target="_blank">MCP Resource</a>
 
 ## Tips 
 
