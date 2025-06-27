@@ -10,9 +10,10 @@ Tech with Tim - <a href="https://youtu.be/-8k9lGpGQ6g" target="_blank">MCP Tutor
 
 ## Tips 
 
-1. Goto developer mode in Claude desktop and edit claude_desktop_config.json
-2. Add complete path of uv like below in claude_desktop_config.json
-3. {
+1. Download Claude desktop app
+2. Goto developer mode in Claude desktop and edit claude_desktop_config.json
+3. Add complete path of uv like below in claude_desktop_config.json
+4. {
   "mcpServers": {
     "Demo": {
       "command": "C:\\Users\\bhara\\.local\\bin\\uv.exe",
@@ -27,4 +28,4 @@ Tech with Tim - <a href="https://youtu.be/-8k9lGpGQ6g" target="_blank">MCP Tutor
     }
   }
 }
-4. End Claude desktop task from task manager and open claude desktop after adding any new mcp tools
+5. End Claude desktop task from task manager and open claude desktop after adding any new mcp tools
