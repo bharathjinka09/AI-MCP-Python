@@ -8,7 +8,7 @@ Tech with Tim - <a href="https://youtu.be/-8k9lGpGQ6g" target="_blank">MCP Tutor
 
 <a href="https://github.com/modelcontextprotocol/python-sdk?tab=readme-ov-file" target="_blank">MCP Resource</a>
 
-## Tips 
+## Steps 
 
 1. Install uv and the dependency packages
 2. uv add "mcp[cli]"
@@ -47,3 +47,4 @@ Tech with Tim - <a href="https://youtu.be/-8k9lGpGQ6g" target="_blank">MCP Tutor
 7. Run the command -> <b>uv run mcp install .\calculator.py</b> <br>
                       <b>uv run mcp install .\main.py</b>
 8. End Claude desktop task from task manager and open claude desktop after adding any new mcp tools
+
